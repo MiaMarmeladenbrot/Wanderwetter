@@ -4,7 +4,7 @@ by [Mia Mecklenburg](https://github.com/MiaMarmeladenbrot)
 
 ## Live Site
 
-[click here](https://miamarmeladenbrot.github.io/Wanderwetter/)
+[click here](https://wanderwetter.vercel.app/)
 
 ## Task
 
