@@ -191,7 +191,7 @@ const fetchWeatherData = (weatherData) => {
     weatherData.weather[0].id <= 804
   ) {
     adviceMessage.innerHTML = `<p class="green">Die paar Wolken sind doch kein Problem!</p>`;
-    // # hier fehlt noch ein Wolken-Bild
+    adviceImg.innerHTML = `<img src="./assets/img/clouds.png" alt="Illustration of hiking man under cloudy sky">`;
   } else if (
     // id = snow
     weatherData.weather[0].id >= 600 &&

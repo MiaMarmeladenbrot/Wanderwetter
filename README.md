@@ -2,6 +2,10 @@
 
 by [Mia Mecklenburg](https://github.com/MiaMarmeladenbrot)
 
+## Live Site
+
+[click here](https://miamarmeladenbrot.github.io/Wanderwetter/)
+
 ## Task
 
 - Get weather data from [Open Weater](https://openweathermap.org/).
@@ -13,6 +17,10 @@ by [Mia Mecklenburg](https://github.com/MiaMarmeladenbrot)
 - Get suggestions for possible cities while typing.
 - Get data about local time, temperature, atmosphere, rain, wind, sunrise, sunset.
 - Get hiking advice according to the data, each advice has its own image.
+
+## Illustrations
+
+by [phc.vector](https://www.freepik.com/author/pch-vector)
 
 ## Screenshots
 
