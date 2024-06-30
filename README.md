@@ -16,7 +16,7 @@ by [Mia Mecklenburg](https://github.com/MiaMarmeladenbrot)
 - Search by city name for current weather.
 - Get suggestions for possible cities while typing.
 - Get data about local time, temperature, atmosphere, rain, wind, sunrise, sunset.
-- Get hiking advice according to the data, each advice has its own image.
+- Get hiking advice according to the data, each advice is accompanied by a different image.
 
 ## Illustrations
 
